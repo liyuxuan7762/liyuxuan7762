@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liyuxuan7762
 - 👀 I’m interested in guitar and photography
-- 🌱 I’m currently learning Spring, SpringMVC, and Mybatis
+- 🌱 I’m currently learning SpringBoot, Mybatis Plus, and Redis
 - 📫 How to reach me lyx776239423@gmail.com
 
 <!---
