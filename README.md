@@ -2,6 +2,7 @@
 - 👀 I’m interested in guitar and photography
 - 🌱 I’m currently learning SpringBoot, Mybatis Plus, and Redis
 - 📫 How to reach me lyx776239423@gmail.com
+- 🖥 My CSDN Blog https://blog.csdn.net/lyx7762
 
 <!---
 liyuxuan7762/liyuxuan7762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
