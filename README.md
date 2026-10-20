@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @liyuxuan7762
-- 👀 I’m interested in guitar and photography
-- 🌱 I’m currently learning SpringCloud, MongoDB
-- 📫 How to reach me lyx776239423@gmail.com
-- 🖥 My CSDN Blog https://blog.csdn.net/lyx7762
+- 🚀 Software Engineer at Festo
+- 💻 Java | .NET | Angular
+- 🔗 Integration & Automation: Apigee, n8n, MQTT
+- 🏡 Home Assistant enthusiast, constantly automating everything at home
 
 ![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyuxuan7762&layout=compact&hide_border=true&langs_count=10)
 
